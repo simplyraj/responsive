@@ -4,8 +4,8 @@ title: "About me"
 subheadline: ""
 teaser: ""
 permalink: "/info/"
-header: 
-    image_fullwidth: "header_drop.jpg"
+header: no
+
 
 ---
 
