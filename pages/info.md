@@ -1,11 +1,10 @@
 ---
-
 layout: page
 title: "About me"
 subheadline: ""
 teaser: ""
 permalink: "/info/"
-header: no
+header: 
     image_fullwidth: "header_drop.jpg"
 
 ---
