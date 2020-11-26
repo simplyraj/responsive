@@ -1,12 +1,10 @@
 ---
-
 layout: page
 show_meta: false
 title: "About me"
 subheadline: "Hello, I'm Raj"
 teaser: ""
 header: no
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/about-me/"
 
 ---
